@@ -1,0 +1,25 @@
+{
+  "name": "aws-services",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lalithadurairaj/AWS-Services.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lalithadurairaj/AWS-Services/issues"
+  },
+  "homepage": "https://github.com/lalithadurairaj/AWS-Services#readme",
+  "dependencies": {
+    "@aws-sdk/client-sqs": "^3.922.0",
+    "aws-sdk": "^2.1692.0",
+    "dotenv": "^17.2.3"
+  }
+}
